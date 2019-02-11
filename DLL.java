@@ -7,7 +7,7 @@ class Double_Linked_List {
 		Node prev;
 		Node next;
 		int data;
-		
+//Constructor		
 		Node(int d){
 			data = d;
 		}
