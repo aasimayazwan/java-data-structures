@@ -1,5 +1,5 @@
 //Implementation of Double Linked List
-class DLL {
+class Double_Linked_List {
 //head of the list	
 	Node head;
 //Double linked list Node 
